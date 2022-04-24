@@ -1,39 +1,39 @@
-# Airdrop
+# 空投
 
-## BEND Token Airdrop
+## BEND 代币空投
 
-BEND Airdrop will be the first move of the BEND Fair Launch.
+BEND 空投将会是 BEND 公平启动的第一步。
 
-**500,000,000 BEND** (**5%** of the BEND total supply) will be allocated to the whole NFT community in terms of Airdrop.
+**500,000,000 BEND** （**5%** 的 BEND 总供给） 将会以空投形式分配给整个 NFT 社区。
 
-## Airdrop Duration
+## 空投期限
 
-To avoid the unnecessary GAS cost, eligible users can claim BEND during a window of **90 days starting from March 20th, from 2022-03-20 16:57:03 GMT+0 to GMT 2022-06-18 16:57:03 GMT+0**. All unclaimed BEND tokens will be reallocated to the DAO Treasury.
+为了避免不必要的GAS费用，符合条件的用户可以在 **3 月 20 日起的 90 天的时间窗口领取 BEND（从 2022-03-20 16:57:03 GMT+0 到 GMT 2022-06-18 16:57:03 GMT+0）**。所有未领取的 BEND 代币将被重新分配到 DAO 金库。
 
-## Eligibility
+## 空投领取资格
 
 ### OpenSea
 
-OpenSea users who traded between Ethereum Block 13162318 on September 5th, 2021 and Block 14323604 on March 5th, 2022.
+在 2021 年 9 月 5 日的以太坊区块 13162318 和 2022 年 3 月 5 日的区块 14323604 之间进行交易的 OpenSea 用户。
 
-### Bluechip NFTs
+### 蓝筹 NFTs
 
-Users who hold the bluechip NFTs on March 5th, 12 am UTC. Bluechip NFTs are Crypto Punks, Bored Ape YC, Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women and CyberKongz.
+3 月 5 日 UTC 上午 12 点 持有蓝筹 NFT 的用户。蓝筹 NFT 是 Crypto Punks, Bored Ape YC, Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women 以及 CyberKongz。
 
 ### NFTfi
 
-Borrowers and lenders who joined P2P NFT lending before Block 14323604 on March 5th, 2022.
+在 2022 年 3 月 5 日区块 14323604 之前参与 P2P NFT 借贷的借款人和出借人。
 
 ### Discord boundNFT OG
 
-500 lucky boundNFT OGs will be announced on Bend Discord.
+500 名幸运的 boundNFT OG 将在 Bend Discord 上公布。
 
-## **Tiers**
+## **层级**
 
-### Bluechip NFTs 
-For Fairness of bluechips votes into the protocol, each of the collections get the same total bend airdrops.
+### 蓝筹 NFTs 
+为了协议内的蓝筹选票的公平性，每个系列将得到同样的总 bend 空投。
 
-| NFT Collections    | BEND Tokens Each Wallet | Total BEND Each Collection |
+| NFT 系列           | 每个钱包的 BEND 代币     | 每个系列的总 BEND           |
 | ------------------ | ----------------------: | -------------------------: |
 | CryptoPunks        |                2,777.78 |              27,777,777.78 |
 | BoredApeYachtClub  |                2,777.78 |              27,777,777.78 |
@@ -47,9 +47,9 @@ For Fairness of bluechips votes into the protocol, each of the collections get t
 
 ### OpenSea
 
-5 tiers for OpenSea users. Each eligible wallet will be able to claim an amount of BEND corresponding to their total trading volume in ETH on OpenSea.
+为 OpenSea 用户提供 5 个层级。每个符合条件的钱包将能够领取与他们在 OpenSea 上的 ETH 总交易量相对应的 BEND 数额。
 
-| Tier | Volume in ETH | BEND Tokens Each Address | BEND Tokens Each Tier |
+| 层级 | ETH 交易量     | 每个地址的 BEND 代币      | 每个层级的 BEND 代币   |
 | ---- | ------------- | -----------------------: | --------------------: |
 | 1    | 120 <= v      |                 2,266.27 |         39,684,666.67 |
 | 2    | 60<= v <120   |                 1,380.24 |         26,456,444.44 |
@@ -57,17 +57,17 @@ For Fairness of bluechips votes into the protocol, each of the collections get t
 | 4    | 10<= v < 20   |                   675.39 |         39,684,666.67 |
 | 5    | 3<= v < 10    |                   536.40 |         79,369,333.33 |
 
-### Discord Community
+### Discord 社区
 
-| Lucky Testers in Discord | BEND Tokens Each Address | Total BEND Tokens |
+| Discord 内的幸运测试者    | 每个地址的 BEND 代币      | 总 BEND 代币       |
 | ------------------------ | -----------------------: | ----------------: |
 | 500                      |                 2,000.00 |      1,000,000.00 |
 
 ### NFTfi
 
-6 tiers for NFTfi users. Each eligible wallet will be able to claim an amount of BEND corresponding to their loan volume in ETH on NFTfi.
+为 NFTfi 用户提供 6 个层级。每个符合条件的钱包将能够领取与他们在 NFTfi 上的 ETH 总借贷量相对应的 BEND 数额。
 
-| Tier | Volume in ETH  | BEND Tokens Each Address | BEND Tokens Each Tier |
+| 层级 | ETH 借贷量      | 每个地址的 BEND 代币      | 每个层级的 BEND 代币   |
 | ---- | -------------- | -----------------------: | --------------------: |
 | 1    | 1000 <= V      |                30,000.00 |            240,000.00 |
 | 2    | 200 <= V <1000 |                20,000.00 |            780,000.00 |
@@ -76,23 +76,23 @@ For Fairness of bluechips votes into the protocol, each of the collections get t
 | 5    | 1<= V < 10     |                10,000.00 |          4,520,000.00 |
 | 6    | 0.01<= V < 1   |                 8,000.00 |          2,584,000.00 |
 
-## No Conditions to Claim
+## 无条件领取
 
-No extra conditions. We would like to invite all users to experience the Instant NFT-backed Loan on Bend testnet ([https://www.benddao.xyz/](https://www.benddao.xyz)).
+没有额外条件。我们想邀请所有用户在 Bend 测试网上体验由 NFT 支撑的即时借贷 ([https://www.benddao.xyz/](https://www.benddao.xyz))。
 
-## The Utility of BEND Token
+## BEND 代币的实用性
 
-BEND is the governance token of Bend DAO.
+BEND 是 Bend DAO 的治理代币。
 
-### Voting
+### 投票
 
-Holders of BEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
+BEND 的持有人可以参与投票，决定 Bend 协议可以支持哪些 NFT 作为抵押品以借出 ETH 并提供流动性。只要支持的 NFT 流动性得到改善，所有 NFT 持有者都会受益。
 
-veBEND holders voted for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
+veBEND 持有者投票选出了 7 个蓝筹 NFT 中的 4 个，将获得初始 ETH 借贷池的支持。7 个 NFT 系列是 **Mutant Ape YC，Cool Cats，Doodles，CLONE X，Azuki，World of Women 和CyberKongz** 。
 
-Now BAYC, CryptoPunks, MACY, Azuki, Clone X, and Doodles are supported as colorectal on Bend.
+现在 Bend 支持将 BAYC，CryptoPunks，MAYC，Azuki，Clone X，还有 Doodles 作为抵押品。
 
-Voting details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
+投票细节：[https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
 ### Staking
 
