@@ -78,7 +78,7 @@ BEND 空投将会是 BEND 公平启动的第一步。
 
 ## 无条件领取
 
-没有额外条件。我们想邀请所有用户在 Bend 测试网上体验由 NFT 支撑的即时借贷 ([https://www.benddao.xyz/](https://www.benddao.xyz))。
+没有额外条件。我们想邀请所有用户在 Bend 测试网上体验由 NFT 支撑的即时借贷（[https://www.benddao.xyz/](https://www.benddao.xyz)）。
 
 ## BEND 代币的实用性
 
@@ -111,9 +111,9 @@ veBEND 持有者投票选出了 7 个蓝筹 NFT 中的 4 个，将获得初始 E
 
 拥有由 NFT 支撑的即时借贷支持的 NFT 项目将为项目创造一个正向流动性循环，这将带来更强大的价格支持和长期的社区发展。
 
-CryptoPunks 和 Bored Ape YC 是公认的蓝筹项目，Bend 在正式启动时将它们作为抵押品。还有 4 个 NFT 被选为第一批拥有治理功能的 NFT 抵押品。它们是**Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** 和 **CyberKongz**。
+CryptoPunks 和 Bored Ape YC 是公认的蓝筹项目，Bend 在正式启动时将它们作为抵押品。还有 4 个 NFT 被选为第一批拥有治理功能的 NFT 抵押品。它们是 **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** 和 **CyberKongz**。
 
-BEND 公平启动之后，BEND持有者可以存入 BEND 获得 veBEND，也就是[ BEND 选票](governance/vote-escrowed-bend-vebend.md)（vote-escrowed BEND）。
+BEND 公平启动之后，BEND 持有者可以存入 BEND 获得 veBEND，也就是[ BEND 选票](governance/vote-escrowed-bend-vebend.md)（vote-escrowed BEND）。
 
 ![](.gitbook/assets/BendVoting.png)
 
