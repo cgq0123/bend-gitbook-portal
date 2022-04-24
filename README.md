@@ -1,48 +1,48 @@
-# Introducing BendDAO
+# BendDAO 介绍
 
-BendDAO is the first decentralised peer-to-pool based NFT liquidity protocol. Depositors provide ETH liquidity to the lending pool to earn interest, while borrowers are able to borrow ETH through the lending pool using NFTs as collateral instantly.
+BendDAO 是首个去中心化基于点对池（Peer-to-Pool）的 NFT 流动性借贷协议。存款人向借贷池提供 ETH 流动性以赚取利息，而借款人能使用 NFT 作为抵押物通过借贷池即时借出ETH。
 
-Bend protocol enables NFT assets to be pooled and converted into representing ERC721 boundNFTs to realize NFT loans.
+Bend 协议使 NFT 资产能够被汇集并转化成作为代表的 ERC721 的 boundNFT，以实现 NFT 借贷。
 
-## NFT as Collaterals to Borrow ETH
+## NFT 作为抵押品借出 ETH
 
-**Borrowers (NFT holders)** will bundle NFT into one separate token (boundNFT) through BendDAO Protocol in order to function as a single unit of collateral. Details of the [Collateral Ratio](risk/nft-risk-parameters.md).
+**借款方（NFT 持有者）** 通过 BendDAO 协议将 NFT 捆绑成一个独立的代币（boundNFT），以便作为一个单一的抵押品单位发挥作用。有关[抵押品比率](risk/nft-risk-parameters.md)的细节。
 
-Details are listed as follows:
+详情如下：
 
-* Initiate an instant NFT loan contract to borrow ETH from the pool
-* Maintain NFT collateral ratio by repay ETH anytime
-* Get back the NFT when pay off the NFT loan
+* 发起一个即时 NFT 借贷合同，从资金池借出 ETH
+* 通过随时偿还 ETH 来维持 NFT 的抵押率
+* 在还清 NFT 贷款时拿回 NFT
 
-## Deposit ETH to Earn Yields
+## 存入 ETH 以赚取收益
 
-**Depositors/ lenders** will be able to
+**存款方 / 贷款方** 将能够
 
-* Deposit/withdraw ETH to the reserve pools
-* Earn yields by providing liquidity
+* 向储备池存/取 ETH
+* 通过提供流动性赚取收益
 
-## From the NFT holder's point of view
+## NFT 持有者视角
 
-#### A 48-hour liquidation protection period
+#### 48 小时清算保护期
 
-In order to avoid losses caused by the market fluctuations, borrower will have a 48-hour liquidation protection period to repay the loan.
+为了避免市场波动造成的损失，借款人将有 48 小时的清算保护期来偿还贷款。
 
-#### Same airdrop right for borrowers
+#### 对借款方同样的空投权利
 
-Borrowers will be eligible for all related NFT holder airdrops. BendDAO will collect and distribute the airdrops to boundNFT holders when their NFTs are in the collateral pool.
+借款人将有资格获得所有相关的 NFT 持有者的空投。当 boundNFT 持有人的 NFT 在抵押品池中时，BendDAO 将收集和分发空投给他们。
 
-Furthermore, borrowers can claim NFT rewards on other protocols while having NFTs still in a collateral pool with the Flashloan feature.
+此外，借款人可以同时有 NFT 仍在抵押品池中且具有闪电贷（Flashloan）功能，并在其他协议上领取 NFT 奖励。
 
-#### Never be stolen
+#### 永不被盗
 
-NFTs will be converted into representing ERC721 boundNFTs through instant NFT loans. boundNFT is untransferable avoiding the risk of theft. On the other side, boundNFT has the same **digital self-expression** which can be used on Web2 social media platforms that support NFT avatar.
+NFT 将通过即时 NFT 借贷转换成作为代表的 ERC721 的 boundNFT。boundNFT 是不可转让的，避免了盗窃的风险。另一方面，boundNFT 具有相同的**数字自我表达**，可以在支持 NFT 头像的Web2社交媒体平台上使用。
 
-## From the ETH lender's point of view
+## ETH 借款者视角
 
-#### Never goes bankrupt
+#### 从不破产
 
-The borrower's NFT collateral is locked on the platform. After the total debt exceeds the value of the collateral, the collateral is liquidated through auction, and the auction price cannot be lower than the total debt. So the lender's principal will not be lost.
+借款人的 NFT 抵押品被锁在平台上。当债务总额超过抵押品价值后，抵押品将会通过拍卖形式清算，而拍卖价格不能低于债务总额。所以贷款人的本金不会损失。
 
-{% hint style="info" %}
-This Portal links to the key resources on BendDAO to understand the fundamentals of the Protocol. Please join the discussion on BendDAO community Discord server; our team and members of the community look forward to helping you build on top of BendDAO.
+{% hint style="info" %} 
+这个文档链接到 BendDAO 的关键资源，以帮助您理解该协议的基本内容。请加入 BendDAO 社区 Discord 服务器上的讨论；我们的团队和社区成员期待着帮助您在 BendDAO 的基础上进行建设。
 {% endhint %}
