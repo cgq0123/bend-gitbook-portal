@@ -88,35 +88,35 @@ BEND 是 Bend DAO 的治理代币。
 
 BEND 的持有人可以参与投票，决定 Bend 协议可以支持哪些 NFT 作为抵押品以借出 ETH 并提供流动性。只要支持的 NFT 流动性得到改善，所有 NFT 持有者都会受益。
 
-veBEND 持有者投票选出了 7 个蓝筹 NFT 中的 4 个，将获得初始 ETH 借贷池的支持。7 个 NFT 系列是 **Mutant Ape YC，Cool Cats，Doodles，CLONE X，Azuki，World of Women 和CyberKongz** 。
+veBEND 持有者投票选出了 7 个蓝筹 NFT 中的 4 个，将获得初始 ETH 借贷池的支持。7 个 NFT 系列是 **Mutant Ape YC，Cool Cats，Doodles，CLONE X，Azuki，World of Women** 和 **CyberKongz** 。
 
 现在 Bend 支持将 BAYC，CryptoPunks，MAYC，Azuki，Clone X，还有 Doodles 作为抵押品。
 
 投票细节：[https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
-### Staking
+### 质押
 
-100% of the protocol income will be distributed to veBEND holders who stake BEND.
+协议收入的 100% 将被分配给质押 BEND 的 veBEND 持有人。
 
-More details of [veBEND](governance/vote-escrowed-bend-vebend.md).
+更多关于 [veBEND](governance/vote-escrowed-bend-vebend.md) 的细节。
 
-## Bend Launch Schedule
+## Bend 启动日程
 
-* [IFO (F for Fair Launch)](highlights/fair-launch.md)
-* Multi-sig Election
+* [IFO（F-Fair Launch 代表公平启动）](highlights/fair-launch.md)
+* 多签选举（Muti-sig Election）
 
-Muti-sig Election is to form the committee to monitor the transactions and to reject the transactions that are not supposed to be executed on behalf of the Bend DAO Treasury.
+多签选举是为了组建委员会来监督交易，并拒绝那些不应该代表 Bend DAO 金库所执行的交易。
 
-* Bluechip NFT Community Voting
+* 蓝筹 NFT 社区投票
 
-NFT projects with Instant NFT-backed Loan support will create a positive liquidity cycle for the project which will bring more strong price supports and long-term community development.
+拥有由 NFT 支撑的即时借贷支持的 NFT 项目将为项目创造一个正向流动性循环，这将带来更强大的价格支持和长期的社区发展。
 
-CryptoPunks and Bored Ape YC are the recognized blue chips which are supported as collaterals when Bend officially launches. There will be 4 more NFTs selected as the first batch of NFT collaterals with governance. Those are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
+CryptoPunks 和 Bored Ape YC 是公认的蓝筹项目，Bend 在正式启动时将它们作为抵押品。还有 4 个 NFT 被选为第一批拥有治理功能的 NFT 抵押品。它们是**Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** 和 **CyberKongz**。
 
-After BEND’s fair launch, BEND holders can deposit BEND to get veBEND which stands for [vote-escrowed BEND](governance/vote-escrowed-bend-vebend.md).
+BEND 公平启动之后，BEND持有者可以存入 BEND 获得 veBEND，也就是[ BEND 选票](governance/vote-escrowed-bend-vebend.md)（vote-escrowed BEND）。
 
 ![](.gitbook/assets/BendVoting.png)
 
-* Bend official mainnet launch
+* Bend 官方主网启动
 
-More details of the BEND[ Fair Launch](highlights/fair-launch.md).
+更多关于 BEND[ 公平启动 ](highlights/fair-launch.md)的细节。
