@@ -1,69 +1,69 @@
-# Table of contents
+# 目录
 
-* [Introducing BendDAO](README.md)
+* [介绍 BendDAO](README.md)
 * [Discord](https://discord.gg/H8b6Ynjefx)
-* [Airdrop](airdrop.md)
+* [空投](airdrop.md)
 
 ## FAQ
 
 * [Flash Claim FAQ](faq/flash-claim-faq.md)
-* [Initial Fair-launch Offering (IFO)](faq/initial-fair-launch-offering-ifo.md)
-* [Liquidation](faq/liquidation.md)
-* [Tokenomics](faq/tokenomics.md)
+* [首次公平发售（IFO）](faq/initial-fair-launch-offering-ifo.md)
+* [清算](faq/liquidation.md)
+* [代币经济](faq/tokenomics.md)
 
-## Highlights
+## 亮点
 
-* [Instant Lending and Repayments](highlights/instant-lending-and-repayments.md)
-* [48h Liquidation Protection](highlights/48h-liquidation-protection.md)
-* [True Ownership](highlights/true-ownership.md)
-* [Fair Launch](highlights/fair-launch.md)
+* [即时借贷和还款](highlights/instant-lending-and-repayments.md)
+* [48h 清算保护](highlights/48h-liquidation-protection.md)
+* [真实所有权（True Ownership）](highlights/true-ownership.md)
+* [公平启动（Fair Launch）](highlights/fair-launch.md)
 
-## USER GUIDES
+## 用户指南
 
-* [Getting Started](user-guides/getting-started.md)
-* [BendDAO on Mobile](user-guides/benddao-on-mobile.md)
-* [Deposit NFT (Borrower)](user-guides/deposit-nft-borrower.md)
-* [Deposit ETH (Lender)](user-guides/deposit-eth-lender.md)
+* [入门介绍](user-guides/getting-started.md)
+* [移动端的 BendDAO](user-guides/benddao-on-mobile.md)
+* [存入 NFT（借款人）](user-guides/deposit-nft-borrower.md)
+* [存入 ETH（贷款人）](user-guides/deposit-eth-lender.md)
 * [Flash Claim](user-guides/flashclaim.md)
 
-## Protocol overview
+## 协议概述
 
 * [bendETH](protocol-overview/bendeth.md)
 * [boundNFT](protocol-overview/boundnft.md)
-* [Interest Model](protocol-overview/interest-model.md)
-* [bendETH Valuation](protocol-overview/bendeth-valuation.md)
-* [Oracle Price Feeding](protocol-overview/oracle-price-feeding.md)
-* [Liquidation and Redeem](protocol-overview/liquidation-and-redeem.md)
-* [Auction](protocol-overview/auction.md)
-* [Roadmap](protocol-overview/roadmap.md)
+* [利率模型](protocol-overview/interest-model.md)
+* [bendETH 估值](protocol-overview/bendeth-valuation.md)
+* [预言机价格喂养（Price Feeding）](protocol-overview/oracle-price-feeding.md)
+* [清算和赎回](protocol-overview/liquidation-and-redeem.md)
+* [拍卖](protocol-overview/auction.md)
+* [路线图](protocol-overview/roadmap.md)
 
-## Governance
+## 治理
 
-* [Bendenomics](governance/bendenomics.md)
-* [Governance Mechanism](governance/governance-mechanism.md)
-* [Vote-escrowed BEND (veBEND)](governance/vote-escrowed-bend-vebend.md)
-* [Fee Collection and Distribution](governance/fee-collection-and-distribution.md)
-* [Governance Forum](https://snapshot.org/#/benddao.eth)
+* [Bend 经济](governance/bendenomics.md)
+* [治理机制](governance/governance-mechanism.md)
+* [BEND 选票（veBEND）](governance/vote-escrowed-bend-vebend.md)
+* [费用收取和分配](governance/fee-collection-and-distribution.md)
+* [治理论坛](https://snapshot.org/#/benddao.eth)
 
-## RISK
+## 风险
 
-* [Risk Framework](risk/risk-framework.md)
-* [NFT Risk](risk/nft-risk.md)
-* [- NFT Risk Parameters](risk/nft-risk-parameters.md)
-* [- Adding an NFT](risk/adding-an-nft.md)
-* [Reserve Risk](risk/reserve-risk.md)
-* [- Reserve Risk Parameters](risk/reserve-risk-parameters.md)
-* [- Adding a Reserve](risk/adding-a-reserve.md)
-* [Liquidity Risk](risk/liquidity-risk.md)
-* [- Interest Rate Model](risk/interest-rate-model.md)
-* [Security and Audits](risk/security-and-audits.md)
+* [风险框架](risk/risk-framework.md)
+* [NFT 风险](risk/nft-risk.md)
+* [- NFT 风险参数](risk/nft-risk-parameters.md)
+* [- 增加一个 NFT](risk/adding-an-nft.md)
+* [储备风险](risk/reserve-risk.md)
+* [- 储备风险参数](risk/reserve-risk-parameters.md)
+* [- 增加一个储备](risk/adding-a-reserve.md)
+* [流动性风险](risk/liquidity-risk.md)
+* [- 利率模型](risk/interest-rate-model.md)
+* [安全和审计](risk/security-and-audits.md)
 
-## DEVELOPERS
+## 开发者
 
-* [Developers](https://docs.benddao.xyz/developers/)
+* [开发者](https://docs.benddao.xyz/developers/)
 
-## Resources
+## 资源
 
 * [Github](https://github.com/BendDAO)
-* [Social Media](resources/social-media.md)
-* [TERMS OF SERVICE](resources/terms-of-service.md)
+* [社交媒体](resources/social-media.md)
+* [服务条款](resources/terms-of-service.md)
