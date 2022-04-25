@@ -1,34 +1,34 @@
 # Flash Claim FAQ
 
-## Q: How can I claim my airdrops when my NFT is deposited in Bend?&#x20;
+## Q: 当我的 NFT 存入 Bend 时，我如何能领取我的空投？&#x20;
 
-A: Flash Claim feature is designed for this scenario. Find the “Flash Claim” on the Dashboard, and borrowers can claim related airdrops. [https://www.benddao.xyz/app/flash-claim](https://www.benddao.xyz/app/flash-claim)
+A: Flash Claim 功能就是为这种情况设计的。在网页面板上找到 “Flash Claim”，借款人可以领取相关空投。 [https://www.benddao.xyz/app/flash-claim](https://www.benddao.xyz/app/flash-claim)
 
-## Q: How can Bend know whether I’m eligible for the airdrop?&#x20;
+## Q: Bend 如何知道我是否有资格获得空投？&#x20;
 
-A: Airdrops can be claimed if you’re holding related boundNFTs. All borrowers receive boundNFTs when they successfully deposit NFTs in Bend.
+A: 如果您持有相关的 boundNFT，您可以领取空投。所有借款人在 Bend 成功存入 NFT 时都会收到 boundNFT。
 
-## Q: What kind of airdrop will be supported?&#x20;
+## Q: Flash Claim 将支持哪种空投方式？&#x20;
 
-A: Flash Claim supports 2 kinds of airdrops. 1) The project airdrops to holders’ addresses directly; 2) The airdrops need to be claimed by holders. More details: https://docs.benddao.xyz/portal/user-guides/flashclaim
+A: Flash Claim 支持两种空投方式：1）项目直接空投到持有者地址；2）空投需要持有人领取。更多细节见：https://docs.benddao.xyz/portal/user-guides/flashclaim
 
-## Q: If the project airdrops to holders’ addresses directly, how can Bend know which airdropped token belongs to which borrower?&#x20;
+## Q: 如果项目直接空投到持有人的地址，Bend 怎么能知道哪个空投的代币属于哪个借款人？&#x20;
 
-A: Bend DAO follows the airdrop rules set by the project. Both specific and random airdrops can be supported.
+A: Bend DAO 遵循项目设定的空投规则。可以支持特定空投和随机空投。
 
-## Q: If it’s a random airdrop, how does Bend DAO distribute airdrops?&#x20;
+## Q: 如果是随机空投，Bend DAO 是如何分配空投的？&#x20;
 
-A: The distribution process on Bend is also random. For fairness and safety, Bend random algorithm which is based on [Chainlink VRF infrastructure](https://vrf.chain.link/mainnet) to distribute tokens.&#x20;
+A: Bend 上的分配过程也是随机的。为了公平和安全，Bend 的随机算法是基于 [Chainlink VRF 架构](https://vrf.chain.link/mainnet) 来分发代币。&#x20;
 
-The VRF subscription id is on Chainlink: [81](https://vrf.chain.link/mainnet/81).
+Chainlink 上的 VRF 的订阅 id：[81](https://vrf.chain.link/mainnet/81)。
 
-The code for airdrop distribution is on[ ](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol)Github: [AirdropDistribution.sol](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol).&#x20;
+空投代币分配的代码在[ ](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol)Github: [AirdropDistribution.sol](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol).&#x20;
 
-The contract address on[ ](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD)Etherscan: [0x6D187449A5664DD87E58A9d3b982989AaeA469BD](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD).
+合约代码在[ ](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD)Etherscan: [0x6D187449A5664DD87E58A9d3b982989AaeA469BD](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD).
 
-## Q: What if I miss the claim period?&#x20;
+## Q: 如果我错过了领取期怎么办？&#x20;
 
-A: You can always Flash Claim airdrops on Bend. Your airdrop never expires.
+A: 您永远可以在 Bend 上面 Flash Claim 您的空投。您的空投永不过期。
 
 ## Q: Can I Flash Claim if I have no knowledge of programming?&#x20;
 
