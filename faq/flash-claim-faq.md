@@ -30,26 +30,26 @@ Chainlink 上的 VRF 的订阅 id：[81](https://vrf.chain.link/mainnet/81)。
 
 A: 您永远可以在 Bend 上面 Flash Claim 您的空投。您的空投永不过期。
 
-## Q: Can I Flash Claim if I have no knowledge of programming?&#x20;
+## Q: 如果我没有编程知识，也可以使用 Flash Claim 吗？&#x20;
 
-A: You can simply click the Flash Claim button to claim your airdrops. There are no programming requirements.
+A: 是的，您可以简单地点击 Flash Claim 按钮领取您的空投。没有任何编程要求。
 
-## Q: What is boundNFT?&#x20;
+## Q: 什么是 boundNFT ？&#x20;
 
-A: For NFT-backed loans, when the borrower deposits an NFT in Bend DAO, a boundNFT will be minted as a Debt NFT. For Custody, when the NFT holder deposits an NFT in Bend DAO, a boundNFT will be minted as a receipt NFT.&#x20;
+A: 对于 NFT 支持的贷款，当借款人在 Bend DAO 存入 NFT 时，一个 boundNFT 将被铸成债务NFT。对于托管，当 NFT 持有人在 Bend DAO 存入 NFT 时，一个 boundNFT 将被铸成一个 NFT 收据。
 
-More details of boundNFT https://docs.benddao.xyz/portal/highlights/true-ownership
+更多 boundNFT 的细节，见：https://docs.benddao.xyz/portal/highlights/true-ownership
 
-## Q: Is the Flash Claim open-sourced?&#x20;
+## Q: Flash Claim 是开源的吗？&#x20;
 
-A: Yes. Visit BoundNFT Github to find more details. https://github.com/BoundNFT/boundnft-protocol/tree/main/contracts
+A: 是的。详情见 BoundNFT Github：https://github.com/BoundNFT/boundnft-protocol/tree/main/contracts
 
-## Q: Can I realize the Flash Claim by myself if I have programming experience?&#x20;
+## Q: 如果我有编程经验，我可以自己实现 Flash Claim 吗？&#x20;
 
-A: Yes. Users also can write a contract to implement the Flash Claim. Please check the demo on Github. https://github.com/BendDAO/bend-flashclaim-demo
+A: 是的。用户也可以自己写合约来实现 Flash Claim。见 Github 上的 demo：https://github.com/BendDAO/bend-flashclaim-demo
 
-## Q: What kind of airdrops will be supported on Bend?&#x20;
+## Q: Bend 上面支持什么样的空投？&#x20;
 
-A: Yuga Metaverse Land, of course. Technically, all airdrops that are related to the collaterals can be supported. Bend supported collaterals are BAYC, CryptoPunks, MAYC, Azuki, CloneX, and Doodles.
+A: 肯定有 Yuga Metaverse Land。从技术上来说，所有与抵押品有关的空投都可以被支持。Bend 支持的抵押品有 BAYC, CryptoPunks, MAYC, Azuki, CloneX 和 Doodles。
 
-Feel free to find the team in Discord if you want us to support other great airdrops.
+如果您希望团队支持其它更多很棒的空投，请随时通过 Discord 联系团队。
