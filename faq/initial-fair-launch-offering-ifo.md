@@ -14,36 +14,35 @@ A: F 代表 Fair Launch（即公平启动）。
 A: 首次公平发售（IFO）是 BEND 代币[公平启动](../highlights/fair-launch.md)的一部分。BEND IFO 是一种从公众中汇集 ETH 的募资方式。
 
 
+**66%** 募集的 ETH 的将会用于 Bend 的 ETH 借贷池，**34%** 的 ETH 将用于 Bend 的开发运营。
 
-**66%** of the raised ETH will be used for the ETH lending pool on Bend, and **34%** of the ETH will be used for the Bend dev operation.
+规则如下：
 
-The rules are as follows:
+* 1,000,000,000（10%）的 BEND 代币将被分配给首次公平发售（IFO）；
+* 向公众开放；
+* 每个参与者的 ETH 配额没有限制；
+* 1 ETH = 333,333 BEND；
+* IFO 之后，所有未售出的 BEND 将被纳入 DAO 金库；
+* 每个参与者都可以选择 IFO 期间的锁定期，从 0 周到 4 年。
+* 从锁定的那一刻起，持有人将分享协议收入。
 
-* 1,000,000,000 (10%) BEND tokens will be allocated to the Initial Fair-Launch Offering;
-* Open to the public;
-* No ETH allocation limit for each participant;
-* 1 ETH = 333,333 BEND;
-* After the IFO, all unsold BEND will go towards the DAO Treasury;
-* Each participant can choose the lockup period during IFO, from 0 weeks to 4 years.
-* From the moment of lock-up, holders will share the protocol income.
+## Q: 我能用 BEND 代币做什么？
 
-## Q: What can I do with the BEND token?
+A: BEND 持有人可以质押 BEND 获得 BEND 选票（即 veBEND）。
 
-A: BEND holders can stake BEND to get vote-escrowed BEND (veBEND).
+如果您参与 IFO，您的 BEND 将被自动质押。您将获得 veBEND 代币。您锁定 BEND 代币的时间越长，您获得的 veBEND 越多。
 
-Your BEND will automatically be staked if you join the IFO. You will receive veBEND Token. And the longer you lock BEND, the more veBEND you will receive.
+**veBEND** 有两个主要用途：**投票**以及**收益分成**。
 
-**veBEND** has two main uses: **Voting** and **Earning**.
+**投票**
 
-**Voting**
+veBEND 持有者可以参与投票，决定 Bend 协议可以支持哪些 NFT 作为抵押品以借出 ETH 并提供流动性。只要支持的 NFT 的流动性得到改善，所有 NFT 持有者都会受益。
 
-Holders of veBEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
+在主网启动之前，veBEND 持有人将投票选出 7 个蓝筹 NFT 中的 4 个，它们将获得初始 ETH 借贷池的支持。7 个 NFT 系列是 **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** 和 **CyberKongz**。
 
-Before the mainnet launch, veBEND holders will vote for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
+**收益分成**
 
-**Earning**
-
-100% of the protocol income will be distributed to veBEND holders who stake BEND.
+协议收入的 100% 将被分配给质押 BEND 的 veBEND 持有者。
 
 ## Q: Who can participate in IFO?
 
