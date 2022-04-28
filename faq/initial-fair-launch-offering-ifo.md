@@ -1,17 +1,19 @@
-# Initial Fair-launch Offering (IFO)
+# 首次公平发售（IFO）
 
-## Q: Why it is called IFO?
+## Q: 为什么叫 IFO？
 
-A: F is for Fair Launch.
+A: F 代表 Fair Launch（即公平启动）。
 
-* NO VC;
-* NO presale;
-* NO whitelist;
-* **100%** income goes to token holders.
+* 无 VC（风险投资资金）；
+* 无 预售；
+* 无 白名单；
+* 持币人获得 **100%** 收益。
 
-## Q: What is BEND IFO?
+## Q: 什么是 BEND IFO？
 
-A: Initial Fair-launch Offering (IFO) is a part of the BEND Token [Fair Launch](../highlights/fair-launch.md). BEND IFO is a fundraising approach that pools ETH from the public.
+A: 首次公平发售（IFO）是 BEND 代币[公平启动](../highlights/fair-launch.md)的一部分。BEND IFO 是一种从公众中汇集 ETH 的募资方式。
+
+
 
 **66%** of the raised ETH will be used for the ETH lending pool on Bend, and **34%** of the ETH will be used for the Bend dev operation.
 
