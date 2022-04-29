@@ -44,27 +44,27 @@ veBEND 持有者可以参与投票，决定 Bend 协议可以支持哪些 NFT �
 
 协议收入的 100% 将被分配给质押 BEND 的 veBEND 持有者。
 
-## Q: Who can participate in IFO?
+## Q: 谁可以参与 IFO？
 
-A: Everyone who has a decentralized wallet on Ether mainnet. No whitelist and no KYC.
+A: 所有在以太主网拥有去中心化钱包的人都可以参与。无白名单，无 KYC。
 
-## Q: How many BEND can I purchase?
+## Q: 我可以购买多少 BEND？
 
-A: No ETH allocation limit for each participant. And the ratio is 1 ETH = 333,333 BEND.
+A: 每个参与者没有 ETH 配额限制。比率为 1 ETH = 333,333 BEND。
 
-## Q: Any lockup?
+## Q: 是否有任何强制锁仓？
 
-A: NO
+A: 无。
 
-## Q: What will I get if I participate in the IFO then?
+## Q: 如果我参与了 IFO，我能得到什么？
 
-Vote-escrowed BEND. veBEND is the staked BEND. You can check your veBEND balance once you add the veBEND token address to your wallet.
+BEND 选票。veBEND 就是质押中的 BEND。当您把 veBEND 代币地址添加到您的钱包里时，您就可以看到您的 veBEND 余额。
 
-veBEND is short for vote-escrowed BEND Token that is the token you receive when staking BEND. And the longer you stake BEND, the more veBEND you get.
+veBEND 是 BEND 选票（vote-escrowed BEND）的缩写，也就是您在质押 BEND 时获得的代币。您质押 BEND 的时间越长，您获得的 veBEND 就越多。
 
-## Q: How many veBEND tokens will I receive then?
+## Q: 那么我将会获得多少 veBEND 代币呢？
 
-A: The max. lockup period is 4 years. The formula is outlined below.
+A: 最高锁定期为四年时间。公式概述如下：
 
 MAXTIME = 4 \* 365 \* 86400\
 unlock\_time < (block\_time + MAXTIME) veBEND\_amount = BEND\_locked\_amount / MAXTIME \* (unlock\_time - block\_time)
