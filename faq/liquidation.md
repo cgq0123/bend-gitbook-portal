@@ -1,58 +1,59 @@
-# Liquidation
+# 清算
 
-## An example of liquidation
+## 清算例子
 
-Assuming that the floor price of BAYC is 100 ETH when you borrow 40 ETH instantly in Bend DAO.
+假设当您在 Bend DAO 中抵押 BAYC 即时借款 40 ETH 时，BAYC 地板价是 100 ETH。
 
-If the floor price drops to 44 ETH, the 48h liquidation protection will be triggered since the health factor of your NFT-backed loan is below 1.
+如果地板价跌至 44 ETH，由于您的 NFT 支持的借贷的健康系数低于 1，48 小时清算保护将被触发。
 
-Health Factor = (44 \* 90%) / (40 + interests) <1&#x20;
+健康系数 = (44 \* 90%) / (40 + 利息) < 1&#x20;
 
-Health Factor = (Floor Price \* Liquidation Threshold) / Debt with Interests.
+健康系数 = (地板价 \* 清算阈值) / 含息债务。
 
-## What is the health factor?
+## 什么是健康系数？
 
-The health factor is the numeric representation of the safety of your deposited NFT against the borrowed ETH and its underlying value. The higher the value is, the safer the state of your funds are against a liquidation scenario.
+健康系数是您存入的 NFT 对借出的 ETH 及其基础价值的安全性的数字表示。该值越高，说明您的资金状况在清算情况下越安全。
 
-If the health factor reaches 1, the liquidation of your deposits will be triggered. A Health Factor below 1 can get liquidated. For a HF=2, the collateral value vs borrow can reduce by 1 out of 2: 50%.
+如果健康系数达到 1，将触发对您抵押品的清算。健康系数低于 1 的抵押品将会被清算。对于健康系数 = 2，抵押品价值相比于借款会减少二分之一 ——— 即 50%。
 
-The health factor depends on the liquidation threshold of your collateral against the value of your borrowed funds.
+健康系数取决于您的抵押品相比于您借出资金的价值的清算阈值。
 
-You can find all of the collateral parameters in the [risk parameters](../risk/nft-risk-parameters.md) section.
+您可以在[风险参数](../risk/nft-risk-parameters.md)部分找到所有抵押品的参数。
 
-## What happens when my health factor is reduced?
+## 当我的健康系数降低时会发生什么？
 
-Depending on the value fluctuation of your deposits, the health factor will increase or decrease. If your health factor increases, it will improve your borrow position by making the liquidation threshold more unlikely to be reached. In the case that the value of your collateralised assets against the borrowed assets decreases instead, the health factor is also reduced, causing the risk of liquidation to increase.
+健康系数取决于您抵押资产价值的波动将上升或下降。如果您的健康指数上升，您的借款状况将会改善，使清算阈值变得更加不可能达到。若您的抵押资产相较借出资产的价值下降，健康系数将下降，导致清算的风险增加。
 
-## **How does Bend calculate the value of the collateralized NFT?**
+## **Bend 是如何计算抵押的 NFT 的价值的？**
 
-NFT floor prices are currently used as the price feeds for the collateralized NFTs. \*\*\*\* The original price data comes from OpenSea, the most well-known NFT marketplace. The collateral value is denominated in Ether instead of USDT on Bend.
+当前 NFT 地板价被用作抵押 NFT 的价格推送。\*\*\*\* 原始价格数据来自最知名的NFT市场 —— OpenSea。Bend 上的抵押品价值以以太坊计价，而非 USDT。
 
-## **Any plan to upgrade the NFT price feeds design?**
+## **有无计划升级 NFT 的价格推送设计？**
 
-Since there is no sophisticated NFT price feed solution in the market now, using floor prices may be the safest choice. Bend will consider involving a new NFT Oracle when a better option arises.
+由于现在市场上没有成熟的 NFT 价格推送解决方案，使用地板价可能是最安全的选择。当出现更好的选择时，Bend 会考虑使用新的 NFT 预言机。
 
-## **Why does the market liquidation crisis NOT happen on Bend?**
+## **为什么 Bend 上面不会发生市场清算危机？**
 
-48h Liquidation Protection and NFT Auction mean that the NFT will not be liquidated immediately. Meanwhile, the liquidator's bid must be equal to the floor price on OpenSea.
 
-More details of [48h Liquidation Protection](../highlights/48h-liquidation-protection.md).
+48 小时的清算保护和 NFT 拍卖机制的存在意味着 NFT 不会被立即清算。同时，清算人的出价必须等同于 OpenSea 的地板价。
 
-## **What will happen if liquidation occurs?**
+更多关于[ 48h 清算保护](../highlights/48h-liquidation-protection.md)的细节。
 
-A 48-hour liquidation protection mechanism is triggered by smart contract when liquidation occurs. The borrower (user with the collateralized NFT) will be able to repay the loan within the 48-hour window.\
+## **当清算发生时会怎么样？**
+
+当清算发生时，智能合约会触发一个 48 小时的清算保护机制。借款人（拥有抵押的 NFT 的用户）将能够在 48 小时的时间窗口内偿还贷款。\
 \
-A Discord bot will be set up to update the loan status for borrowers.\
+Bend 会设置一个 Discord 机器人更新借款人的借贷情况。\
 \
-During the 48-hour liquidation protection period, an NFT auction will be activated.
+在 48 小时的清算保护期内，Bend 将启动 NFT 拍卖。
 
-## **What's the liquidation threshold on Bend?**
+## **Bend 上的清算阈值是什么？**
 
-If collateral has a liquidation threshold of 90%, the loan will be liquidated when the debt value is worth 80% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
+如果抵押品的清算阈值为 90%，当债务价值为抵押品价值的 80% 时，贷款将被清算。每种抵押品有专门规定的清算阈值，并以百分点表示。
 
-## **Will my loan be liquidated if the price of Ether drops?**
+## **如果以太坊的价格下跌，我的贷款是否会被清算？**
 
-All NFTs are denominated in Ether instead of USDT on Bend. The price of Ether and the price of NFT are not necessarily related.
+所有 NFT 在 Bend 上都以以太坊计价而非 USDT。以太坊价格和 NFT 的价格没有必然联系。
 
 ## **Does the borrower need to keep paying interest while the 48-hour liquidation protection mechanism is active?**
 
