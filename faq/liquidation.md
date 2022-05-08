@@ -55,25 +55,24 @@ Bend 会设置一个 Discord 机器人更新借款人的借贷情况。\
 
 所有 NFT 在 Bend 上都以以太坊计价而非 USDT。以太坊价格和 NFT 的价格没有必然联系。
 
-## **Does the borrower need to keep paying interest while the 48-hour liquidation protection mechanism is active?**
+## **在 48 小时清算保护机制生效期间，借款人是否需要继续支付利息？**
 
-Yes. Because the NFT-backed loan is still active during the 48-hour liquidation protection. For safety and fairness, borrowers need to pay a penalty (1% of the bid price in default) to the liquidator, even after NFT floor prices recover to the normal price.
+是的。因为在 48 小时的清算保护期间内，NFT 支持的贷款仍然生效。为了安全和公平起见，借款人需要向清算人支付罚金（违约时竞标价格的 1%），即使在 NFT 地板价恢复到正常价格之后。
 
-## **What if no liquidator shows up?**
+## **如果没有清算人出现怎么办？**
 
-We do not anticipate this happening frequently, if ever. However, in the case it theoretically would, for the safety of the protocol, the Bend DAO will participate in the NFT auction if no third-party liquidator is interested in the collateralized bluechip NFT. Security is always the first priority with Bend.
+我们预计这不会经常发生。然而，在理论上会发生的情况下，为了协议的安全，如果没有第三方清算人对抵押的蓝筹 NFT 感兴趣，Bend DAO 将参与 NFT 拍卖。安全性永远是 Bend 的首要任务。
 
-## What if the floor price drops, the auction bid can’t cover it?
+## 如果地板价下跌，拍卖出价无法覆盖怎么办？
 
-It will not happen, since the bid must be 1) more than 95% of the floor price; 2) bigger than the total accumulated debt; 3) higher than the previous bid.
+这不会发生，因为出价必须是：1）超过地板价的 95%；2）大于累计债务总额；3）高于之前的出价。
 
-If no liquidator shows up, for the safety of the protocol, the Bend DAO will participate in the NFT auction if no third-party liquidator is interested in the collateralized bluechip NFT. Security is always the first priority with Bend.
+如果没有清算人对抵押的蓝筹 NFT 感兴趣而出现，为了协议的安全，Bend DAO 将参与 NFT 拍卖，安全性永远是 Bend 的首要任务。
 
-## What will happen if floor price drop to 0?
+## 如果地板价下跌至 0，会发生什么？
 
-Bluechip NFTs are fast-growing assets that appreciate faster than ETH and the whole market is still early.
+蓝筹 NFT 是快速增长的资产，比 ETH 更快升值，而且整个市场还处于早期。
 
-Bend will only lists high quality bluechip NFTs that have been recognized by the market, and they have at least experienced multiple cycles of ups and downs.
+Bend 只会上架已被市场认可的高质量蓝筹 NFT，而且它们至少经历了多个周期的涨跌。
 
-Bend is continuously monitoring the market indicators of bluechip NFTs, and timely adjusts risk parameters through community governance, such as collateral ratio and delisting NFTs.
-
+Bend 正持续监测蓝筹 NFT 的市场指标，并通过社区治理及时调整风险参数，如抵押率以及下架 NFT。
