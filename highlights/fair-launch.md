@@ -1,10 +1,10 @@
 ---
-description: Driven by community
+介绍: 由社区驱动
 ---
 
-# Fair Launch
+# 公平启动
 
-## Governance&#x20;
+## 治理&#x20;
 
 Holders of BEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
 
