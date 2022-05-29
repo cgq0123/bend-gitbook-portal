@@ -8,9 +8,9 @@ A: Flash Claim 功能就是为这种情况设计的。在网页面板上找到 �
 
 A: 如果您持有相关的 boundNFT，您可以领取空投。所有借款人在 Bend 成功存入 NFT 时都会收到 boundNFT。
 
-## Q: Flash Claim 将支持哪种空投方式？&#x20;
+## Q: 闪电领取将支持哪种空投方式？&#x20;
 
-A: Flash Claim 支持两种空投方式：1）项目直接空投到持有者地址；2）空投需要持有人领取。更多细节见：https://docs.benddao.xyz/portal/user-guides/flashclaim
+A: 闪电领取支持两种空投方式：1）项目直接空投到持有者地址；2）空投需要持有人领取。更多细节见：https://docs.benddao.xyz/portal/user-guides/flashclaim
 
 ## Q: 如果项目直接空投到持有人的地址，Bend 怎么能知道哪个空投的代币属于哪个借款人？&#x20;
 
@@ -28,9 +28,9 @@ Chainlink 上的 VRF 的订阅 id：[81](https://vrf.chain.link/mainnet/81)。
 
 ## Q: 如果我错过了领取期怎么办？&#x20;
 
-A: 您永远可以在 Bend 上面 Flash Claim 您的空投。您的空投永不过期。
+A: 您永远可以在 Bend 上面闪电领取您的空投。您的空投永不过期。
 
-## Q: 如果我没有编程知识，也可以使用 Flash Claim 吗？&#x20;
+## Q: 如果我没有编程知识，也可以使用闪电领取吗？&#x20;
 
 A: 是的，您可以简单地点击 Flash Claim 按钮领取您的空投。没有任何编程要求。
 
@@ -40,13 +40,13 @@ A: 对于 NFT 支持的贷款，当借款人在 Bend DAO 存入 NFT 时，一个
 
 更多 boundNFT 的细节，见：https://docs.benddao.xyz/portal/highlights/true-ownership
 
-## Q: Flash Claim 是开源的吗？&#x20;
+## Q: 闪电领取是开源的吗？&#x20;
 
 A: 是的。详情见 BoundNFT Github：https://github.com/BoundNFT/boundnft-protocol/tree/main/contracts
 
-## Q: 如果我有编程经验，我可以自己实现 Flash Claim 吗？&#x20;
+## Q: 如果我有编程经验，我可以自己实现闪电领取吗？&#x20;
 
-A: 是的。用户也可以自己写合约来实现 Flash Claim。见 Github 上的 demo：https://github.com/BendDAO/bend-flashclaim-demo
+A: 是的。用户也可以自己写合约来实现闪电领取。见 Github 上的 demo：https://github.com/BendDAO/bend-flashclaim-demo
 
 ## Q: Bend 上面支持什么样的空投？&#x20;
 
