@@ -6,7 +6,7 @@
 
 ## FAQ
 
-* [Flash Claim FAQ](faq/flash-claim-faq.md)
+* [闪电领取（Flash Claim）FAQ](faq/flash-claim-faq.md)
 * [首次公平发售（IFO）](faq/initial-fair-launch-offering-ifo.md)
 * [清算](faq/liquidation.md)
 * [代币经济](faq/tokenomics.md)
