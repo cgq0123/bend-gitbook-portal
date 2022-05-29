@@ -1,4 +1,4 @@
-# Flash Claim FAQ
+# 闪电领取（Flash Claim）FAQ
 
 ## Q: 当我的 NFT 存入 Bend 时，我如何能领取我的空投？&#x20;
 
