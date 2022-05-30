@@ -6,7 +6,7 @@
 
 ## 治理&#x20;
 
-Holders of BEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
+BEND 的持有者可以参与投票，决定 Bend 协议可以支持哪些 NFT 作为抵押品，借出 ETH 并提供流动性。只要支持的 NFT 的流动性得到改善，其所有的 NFT 持有者都会受益。
 
 Before the mainnet launch, veBEND holders will vote for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
 
