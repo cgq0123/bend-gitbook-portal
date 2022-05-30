@@ -49,13 +49,13 @@
 
 * [风险框架](risk/risk-framework.md)
 * [NFT 风险](risk/nft-risk.md)
-* [- NFT 风险参数](risk/nft-risk-parameters.md)
-* [- 增加一个 NFT](risk/adding-an-nft.md)
+* [NFT 风险参数](risk/nft-risk-parameters.md)
+* [增加一个 NFT](risk/adding-an-nft.md)
 * [储备风险](risk/reserve-risk.md)
-* [- 储备风险参数](risk/reserve-risk-parameters.md)
-* [- 增加一个储备](risk/adding-a-reserve.md)
+* [储备风险参数](risk/reserve-risk-parameters.md)
+* [增加一个储备](risk/adding-a-reserve.md)
 * [流动性风险](risk/liquidity-risk.md)
-* [- 利率模型](risk/interest-rate-model.md)
+* [利率模型](risk/interest-rate-model.md)
 * [安全和审计](risk/security-and-audits.md)
 
 ## 开发者
