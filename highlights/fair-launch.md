@@ -8,13 +8,13 @@
 
 BEND 的持有者可以参与投票，决定 Bend 协议可以支持哪些 NFT 作为抵押品，借出 ETH 并提供流动性。只要支持的 NFT 的流动性得到改善，其所有的 NFT 持有者都会受益。
 
-Before the mainnet launch, veBEND holders will vote for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
+在主网上线之前，veBEND 持有者将投票选出 7 个蓝筹 NFT 中的 4 个，它们将获得初始 ETH 借贷池的支持。7 个 NFT 系列为 **Mutant Ape YC、Cool Cats、Doodles、CLONE X、Azuki、World of Women** 和 **CyberKongz**。
 
-MAYC, Azuki, CloneX, and Doodles are now supported as collateral via Community Voting. Details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
+MAYC、Azuki、CloneX 和 Doodles 现在已经通过社区投票被支持为抵押品。详情见：[https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
-CryptoPunks and Bored Ape YC are the recognized blue chips that are supported as collaterals when Bend officially launches.&#x20;
+CryptoPunks 和 Bored Ape YC 作为公认的蓝筹 NFT，在 Bend 正式上线时作为抵押品得到支持。&#x20;
 
-After BEND’s fair launch, BEND holders can deposit BEND to get veBEND which stands for voting escrow BEND.&#x20;
+在 BEND 公平启动后，BEND 持有者可以存入 BEND 以获得veBEND，即 BEND 托管选票。&#x20;
 
 ## Initial Fair-launch Offering&#x20;
 
